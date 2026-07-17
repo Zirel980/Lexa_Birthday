@@ -1,24 +1,27 @@
 const letter = `
 
-Happy Birthday, my love.
+Happy Birthday, my Baby.
 
-Thank you for filling my life with laughter,
+Thank you so much for filling my life with laughter,
 comfort, and unforgettable memories.
 
 No matter where life takes us,
 my favorite place will always be beside you.
+Because you are my Home.
 
 I hope today reminds you
 how deeply loved and appreciated you are.
 
-Here's to many more adventures,
+Here's to many more galas,
 late-night conversations,
-inside jokes,
+inside jokes, dates
 and countless memories we'll create together.
 
-I love you.
+I love you, Lexa ko.
 Happy Birthday ❤️
 
+
+MWAAAAAAAAAH! 
 `;
 
 let i=0;
